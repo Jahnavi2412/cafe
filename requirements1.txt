@@ -1,0 +1,4 @@
+pillow
+mysql-connector-python
+customtkinter
+ttkbootstrap
