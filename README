@@ -1,0 +1,19 @@
+** VIBEVERSE*
+### Overview
+Vibeverse is a web-based application designed to explore front-end structure, user interaction, and basic application flow. The project emphasizes clean layout, responsive design principles, and modular organization of UI components.
+### Problem Statement
+Many beginner web projects lack structure and scalability. Vibeverse was built to practice organizing a front-end application in a way that is readable, maintainable, and easy to extend as features grow.
+### Technical Approach
+- Structured the application using clear separation of HTML, CSS, and JavaScript
+- Focused on reusable UI components
+- Applied basic client-side logic for interaction handling
+- Prioritized readability and consistency over complexity
+### Tech Stack
+- Languages: HTML, CSS, JavaScript  
+- Tools: Git, GitHub  
+- Concepts: DOM manipulation, responsive layout, UI structure
+### Features
+- Clean and organized user interface
+- Interactive elements driven by JavaScript
+- Responsive layout for different screen sizes
+- Modular file structure
